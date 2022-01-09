@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CS102A-AeroplaneChess:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CS102A_AeroplaneChess_jar</output-path>
+    <root id="archive" name="CS102A-AeroplaneChess.jar">
+      <element id="module-output" name="CS102A-AeroplaneChess" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,3 @@
+Course: JavaA, cID: 1
+Student: Zhangwh, sID: 1
+sID: 1, cID: 1, Grade: 99.0, GPA: 4.00
